@@ -44,7 +44,7 @@ GBS/
 **Features:**
 - Version extraction patterns: `X-Y-Z`, `X.Y.Z`, `vX.Y.Z`
 - Duplicate detection
-- Pretty-printed sequence analysis
+- Pretty printed sequence analysis
 
 ### 2. **Comparison Engine** (`comparison_engine_core.py`)
 **YOUR ORIGINAL CODE - PRESERVED COMPLETELY**
